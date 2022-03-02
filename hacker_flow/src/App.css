@@ -1,0 +1,16 @@
+.grid{
+  display: grid;
+  grid-template-rows: 3fr auto 5fr;
+  margin: auto;
+}
+
+body{
+  margin: 0px;
+  background-color:rgb(43, 40, 40) ;
+  ;
+}
+
+.grid3{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}

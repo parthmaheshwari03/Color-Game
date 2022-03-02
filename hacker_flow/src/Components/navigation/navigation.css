@@ -1,0 +1,16 @@
+.grid2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+}
+
+.nav{
+    background-color: antiquewhite;
+}
+
+.buttons{
+    margin: auto;
+    
+}
+h2:hover{
+    cursor: pointer;
+}
